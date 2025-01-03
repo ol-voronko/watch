@@ -10,7 +10,7 @@ button {
   color: black;
   padding: 10px 20px;
   font-size: 16px;
-  /* ПОДКЛЮЧАЕМ ШРИФТ */
+  font-family: "Russo One", sans-serif;
 }
 
 .clockCase {
