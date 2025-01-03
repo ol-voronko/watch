@@ -1,7 +1,7 @@
 body {
   background-color: rgb(0, 0, 0);
   color: rgb(54, 255, 47);
-  /* ПОДКЛЮЧАЕМ ШРИФТ */
+  font-family: "Russo One", sans-serif;
   font-size: 50px;
 }
 
